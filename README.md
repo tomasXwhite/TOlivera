@@ -28,12 +28,12 @@ Full Stack Developer :heart: from Argentina to :earth_americas:
 
 &nbsp;
 
-## :pushpin: My proyects
+## :pushpin: My projects
 
 <p>
   <ul>
     
- <li> <A single page aplication of food recipes that makes requests to an api (spoonacular.com). Of which 200 recipes are brought and gives the possibility of filtering by types of diet, level of health, etc. It has its database where you can create custom recipes.</li>
+ <li> A single page aplication of food recipes that makes requests to an api (spoonacular.com). Of which 200 recipes are brought and gives the possibility of filtering by types of diet, level of health, etc. It has its database where you can create custom recipes.</li>
 
 
 <li>A fully functional social network, where text and multimedia posts can be made. Comment on them, like, dislike, report them and see the profile of the person who did it. You can contact people to send them messages and make video calls, for each interaction notifications will be sent to the respective person. You can also buy premium to be able to put the profile in private and see who disliked the publications</li>
