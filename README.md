@@ -38,8 +38,7 @@ Full Stack Developer :heart: from Argentina to :earth_americas:
 
 <li>A fully functional social network, where text and multimedia posts can be made. Comment on them, like, dislike, report them and see the profile of the person who did it. You can contact people to send them messages and make video calls, for each interaction notifications will be sent to the respective person. You can also buy premium to be able to put the profile in private and see who disliked the publications</li>
 </ul>
-<img  width="300" height="200" src="https://res.cloudinary.com/dnur99s4h/image/upload/v1660628052/Socialn2_zgrabw.png%22/%3E
-<img  width="300" height="200" src="https://res.cloudinary.com/dnur99s4h/image/upload/v1660628053/socialn_cpaowu.png%22/%3E
+
 
 </p>
 
