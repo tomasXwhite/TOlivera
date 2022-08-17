@@ -60,7 +60,7 @@
 ###
 
 <h3 align="left">Contact me:</h3>
-<p>tomas8olivera@gmail.com </p>
+<a href="mailto:tomas8olivera@gmail.com">  tomas8olivera@gmail.com</a>
 <div align="left">
   <a href="https://www.linkedin.com/in/tomasxolivera/" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="45" height="32" alt="linkedin logo"  />
