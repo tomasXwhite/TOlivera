@@ -1,5 +1,5 @@
 
-<img align="center"  src="https://res.cloudinary.com/dnw4kirdp/image/upload/v1660699418/Group_108_2_q3dajp.png"  />
+<!-- <img align="center"  src="https://res.cloudinary.com/dnw4kirdp/image/upload/v1660699418/Group_108_2_q3dajp.png"  /> -->
 
 
 
@@ -52,7 +52,7 @@
 
 ###
 <div align="center">
-<a href="https://www.linkedin.com/in/zeus1337/">
+<a href="https://www.linkedin.com/in/tomasxolivera/">
   <img src="https://profile-counter.glitch.me/zeusp/count.svg?"  />
 </a>
 </div>
@@ -60,7 +60,7 @@
 ###
 
 <h3 align="left">Contact me:</h3>
-<p>zvzeus@gmail.com</p>
+<p>tomas8olivera@gmail.com </p>
 <div align="left">
   <a href="https://www.linkedin.com/in/tomasxolivera/" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="45" height="32" alt="linkedin logo"  />
