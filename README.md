@@ -31,7 +31,8 @@
 
 <div>
   <img align="right" height="260" src="https://res.cloudinary.com/tomasffa/image/upload/v1660705301/WhatsApp_Image_2022-07-03_at_11.12.53_AM_uzljk0.jpg"  />
-<p align="left">A single page app that shows all food recipes available in the spoonacular api. You can filter by type of diets and even create new recipes that are stored in the PostgreSQL database. <br><br>♦️ React<br>♦️ Redux<br>♦️ Node js<br>♦️ Express<br>♦️ CSS (pure css, no preprocessors nor libraries)<br>♦️ PostgreSQL<br><br>You can try it here, but wait a little bit  in the /main for the back-end<br> to wake up: https://breeds.vercel.app/</p>
+<p align="left">A single page app that shows all food recipes available in the spoonacular api. You can filter by type of diets and even create new recipes that are stored in the PostgreSQL database. <br><br>♦️ React<br>♦️ Redux<br>♦️ Node js<br>♦️ Express<br>♦️ CSS (pure css, no preprocessors nor libraries)<br>♦️ PostgreSQL<br><br></p>
+<!-- You can try it here, but wait a little bit  in the /main for the back-end<br> to wake up: https://breeds.vercel.app/ -->
 </div>
 <br>
 <br>
