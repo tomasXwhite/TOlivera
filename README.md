@@ -4,8 +4,9 @@
 
 
 
-<p align="center"> <br>Hello there! Im a full stack developer graduated from henry. I'm looking for a great job being a front-back competitive developer. I love working in groups and I am very adaptable to all kinds of new work environments. I focus on challenging myself and improving myself both in the technical aspect and in the communicative and social aspects day by day.
- Take a look at my projects below:</p>
+<p align="center"> <br>Hello there! Im a full stack developer with +2 years of experience working as a freelancer & graduated from henry. I'm looking for a great job being a front-back competitive developer. I love working in groups and I am very adaptable to all kinds of new work environments. I focus on challenging myself and improving myself both in the technical aspect and in the communicative and social aspects day by day.
+I've experience working on global projects with big teams around the world, principally on USA and Europa. I Collaborated with teams of engineers to develop web applications from scratch and new features on existing platforms.
+ Take a look at my bests projects below:</p>
 
 <br>
 <h2 align="center">Social Network</h2>
