@@ -8,7 +8,13 @@
 
 <p align="center"> <br>Hello there! Im a full stack developer with almost 3 years of experience working. Now I'm looking for a great job being a front-back competitive developer. I love working in team and I am very adaptable to all kinds of new work environments. I focus on challenging myself and improving myself both in the technical aspect and in the communicative and social aspects day by day.
 I've experience working on global scalables projects with big teams of devs around the world, principally on USA and Europa. .
- Take a look at my bests projects below:</p>
+  
+  
+  
+  
+  
+  
+<!--  Take a look at my bests projects that im  below:</p>
 
 <br>
 <h2 align="center">Social Network</h2>
@@ -34,8 +40,14 @@ I've experience working on global scalables projects with big teams of devs arou
 
 <div>
   <img align="right" height="260" src="https://res.cloudinary.com/tomasffa/image/upload/v1660705301/WhatsApp_Image_2022-07-03_at_11.12.53_AM_uzljk0.jpg"  />
-<p align="left">A single page app that shows all food recipes available in the spoonacular api. You can filter by type of diets and even create new recipes that are stored in the PostgreSQL database. <br><br>♦️ React<br>♦️ Redux<br>♦️ Node js<br>♦️ Express<br>♦️ CSS (pure css, no preprocessors nor libraries)<br>♦️ PostgreSQL<br><br></p>
-<!-- You can try it here, but wait a little bit  in the /main for the back-end<br> to wake up: https://breeds.vercel.app/ -->
+<p align="left">A single page app that shows all food recipes available in the spoonacular api. You can filter by type of diets and even create new recipes that are stored in the PostgreSQL database. <br><br>♦️ React<br>♦️ Redux<br>♦️ Node js<br>♦️ Express<br>♦️ CSS (pure css, no preprocessors nor libraries)<br>♦️ PostgreSQL<br><br></p> -->
+  
+  
+  
+  
+  
+  
+  
 </div>
 <br>
 <br>
