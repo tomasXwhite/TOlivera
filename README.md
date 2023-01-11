@@ -1,11 +1,13 @@
-
+<p align="center">
+  <img src="https://github.com/matyo91/matyo91/raw/main/assets/github.gif" alt="Hi, I'm Mathieu 👋 I'm a 🚀 French developer 🚀 I ❤️ Happy Hardcore ❤️">
+</p>
 <!-- <img align="center"  src="https://res.cloudinary.com/dnw4kirdp/image/upload/v1660699418/Group_108_2_q3dajp.png"  /> -->
 
 
 
 
-<p align="center"> <br>Hello there! Im a full stack developer with +2 years of experience working as a freelancer & graduated from henry. I'm looking for a great job being a front-back competitive developer. I love working in groups and I am very adaptable to all kinds of new work environments. I focus on challenging myself and improving myself both in the technical aspect and in the communicative and social aspects day by day.
-I've experience working on global projects with big teams around the world, principally on USA and Europa. I Collaborated with teams of engineers to develop web applications from scratch and new features on existing platforms.
+<p align="center"> <br>Hello there! Im a full stack developer with almost 3 years of experience working. Now I'm looking for a great job being a front-back competitive developer. I love working in team and I am very adaptable to all kinds of new work environments. I focus on challenging myself and improving myself both in the technical aspect and in the communicative and social aspects day by day.
+I've experience working on global scalables projects with big teams of devs around the world, principally on USA and Europa. .
  Take a look at my bests projects below:</p>
 
 <br>
